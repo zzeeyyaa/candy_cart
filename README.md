@@ -1,6 +1,10 @@
-# candy_cart
+<p align="center">
+  <img src="assets/images/candy_cart.png" alt="Candy Cart" width="200"/>
+</p>
 
-A new Flutter project.
+# 🍬 Candy Cart
+
+A cute Flutter app featuring a kawaii candy cart with gulali (cotton candy) and colorful gems!
 
 ## Getting Started
 
